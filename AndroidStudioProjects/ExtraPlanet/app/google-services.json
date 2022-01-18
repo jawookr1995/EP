@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "311155176810",
+    "project_id": "extraplanet-6c5b8",
+    "storage_bucket": "extraplanet-6c5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311155176810:android:2d2bea4d90bc50b0822113",
+        "android_client_info": {
+          "package_name": "com.example.extraplanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311155176810-9r4bd9iedtrm8k1kfqshn2eudflgpst5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.extraplanet",
+            "certificate_hash": "41414ad072cc0e249f856c562bda10bec38f71ff"
+          }
+        },
+        {
+          "client_id": "311155176810-1adahomilp7kbtpuimel0aa1494cqglk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxoHQVVftzYcOz5MbJ6CoA1wyQIXfGBPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311155176810-1adahomilp7kbtpuimel0aa1494cqglk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
